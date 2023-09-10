@@ -1,4 +1,4 @@
-# Unity UR16e Robot Arm Control with Augmented Reality Glove
+# Unity UR16e Robot Arm Control with Glove in Augmented Reality
 
 ![Proje Demosu](GIF.gif)
 
