@@ -30,6 +30,6 @@ In this project, we achieved the following key functionalities:
 
 - Demonstrated the robot arm's capabilities in an augmented reality setting, including observing the robot arm on a QR code marker and controlling it using the augmented reality glove.
 
-## Project Demo
+## Project Video
 
-[Link to Project Demo Video](https://www.youtube.com/watch?v=FRx_d1CK45s)
+[Link to Project Video](https://www.youtube.com/watch?v=FRx_d1CK45s)
