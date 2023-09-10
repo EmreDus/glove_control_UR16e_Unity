@@ -1,7 +1,8 @@
 # Unity UR16e Robot Arm Control with Glove in Augmented Reality
 
-<img src="IMAGE.jpg" alt="Proje Resmi" width="300" height="200">
-
+<p align="center">
+  <img src="IMAGE.jpg" alt="Proje Resmi" width="400" height="500">
+</p>
 
 This project combines the power of Unity, UR16e robot arm, and an augmented reality glove using ESP32 for wireless communication. The goal is controlling of the robot arm with hand tracking glove through an Android smartphone's augmented reality interface.
 
