@@ -2,7 +2,7 @@
 
 ![Proje Demosu](GIF.gif)
 
-This project combines the power of Unity, UR16e robot arm, and an augmented reality glove using ESP32 for wireless communication. The goal is to enable precise control of the robot arm through an Android smartphone's augmented reality interface and touch controls.
+This project combines the power of Unity, UR16e robot arm, and an augmented reality glove using ESP32 for wireless communication. The goal is controlling of the robot arm with hand tracking glove through an Android smartphone's augmented reality interface.
 
 ## Project Overview
 
@@ -20,7 +20,7 @@ In this project, we achieved the following key functionalities:
 
 - Established communication between the ESP32 and Unity environment through a Local Host connection.
 
-- Combined the tracked hand position with the UR16e robot arm's inverse kinematics calculations, enabling the robot arm's end effector to follow the hand's position accurately.
+- Combined the tracked hand position with the UR16e robot arm's inverse kinematics calculations, enabling the robot arm's end effector to follow the hand's position.
 
 - Demonstrated the robot arm's capabilities in an augmented reality setting, including observing the robot arm on a QR code marker and controlling it using the augmented reality glove.
 
