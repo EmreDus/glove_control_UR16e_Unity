@@ -4,8 +4,8 @@
 
 #include <WiFi.h>
 
-const char* ssid = "Emre";       // Replace with your WiFi network name
-const char* password = "93259325"; // Replace with your WiFi network password
+const char* ssid = "Your_SSID";       // Replace with your WiFi network name
+const char* password = "PASSWORD";   // Replace with your WiFi network password
 
 IPAddress staticIP(192, 168, 1, 155); // Replace with your desired static IP address
 IPAddress gateway(192, 168, 1, 1);    // Replace with your gateway IP address
